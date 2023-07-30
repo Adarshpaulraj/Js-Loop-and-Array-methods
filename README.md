@@ -1,2 +1,2 @@
 # string-method-and-array-method
-Today i learn array and string methods with example..
+Today i learn Loop and Array methods with example..
