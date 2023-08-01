@@ -22,7 +22,7 @@ syntax:
     //block of code
    }while(condition)
    Example:
-   let count =0;
+  let count =0;
    do{
     console.log(count);
     count ++;
